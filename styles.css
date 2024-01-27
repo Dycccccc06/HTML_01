@@ -1,0 +1,80 @@
+.box1 {
+    width: 420px;
+    height: 470px;
+    background-color: #c7ebf0;
+    margin: 0 auto;
+}
+
+.box2 {
+    width: 210px;
+    height: 100px;
+    background-color: #c7ebf0;
+    ;
+    margin: 0 auto;
+    float: left;
+}
+
+.box2 p {
+    font-size: larger;
+    margin-left: 25%;
+    margin-top: 15%;
+}
+
+.box3 {
+    width: 210px;
+    height: 100px;
+    background-color: #c7ebf0;
+    margin: 0 auto;
+    float: left;
+}
+
+.box3 p {
+    font-size: larger;
+    margin-left: 25%;
+    margin-top: 15%;
+}
+
+.box4 {
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 5px;
+}
+
+.box4 .denglu {
+    width: 400px;
+    height: 40px;
+}
+
+.box4 .mima {
+    margin-top: 6px;
+    width: 400px;
+    height: 40px;
+}
+
+.box5 {
+    position: absolute;
+    margin-top: 255px;
+    margin-left: 125px;
+    font-size: 12px;
+
+}
+
+.box6 {
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 10px;
+}
+
+.box6 .size {
+    width: 400px;
+    height: 40px;
+    color: black;
+}
+
+.box7 {
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 142px;
+    font-size: small;
+    color: gray;
+}
